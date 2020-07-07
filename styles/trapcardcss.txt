@@ -1,0 +1,5 @@
+css
+    font-family: 'Modak', cursive;
+
+standard
+    <link href="https://fonts.googleapis.com/css2?family=Modak&display=swap" rel="stylesheet"> 
